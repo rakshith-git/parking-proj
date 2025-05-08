@@ -20,4 +20,4 @@ if it is installed open the git cloned folder again and type uv sync (make sure 
 
 great 
 
-now just type adk web and you can see the project work 
+now just type adk web and you can see the project work in localhost:8000
